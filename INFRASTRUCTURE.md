@@ -42,8 +42,3 @@ All zones use:
 - `chloe.ns.cloudflare.com`
 - `trevor.ns.cloudflare.com`
 
-## Pending Actions
-
-- [x] ~~**vestigia-studios.com**: Domain transfer from GoDaddy to Cloudflare~~ Done
-- [x] ~~**vestigia.org**: Domain transfer from GoDaddy to Cloudflare~~ Done
-- [x] ~~**vestigia-studios.com**: Set up DNS redirect to vestigia.org~~ Done (301 page rule)
