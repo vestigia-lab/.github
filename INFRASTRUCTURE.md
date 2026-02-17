@@ -33,8 +33,8 @@ All repos are **private** and use **Git LFS** for large assets (UE5 projects). L
 
 | Domain | Status | Registrar | Notes |
 |---|---|---|---|
-| vestigia.org | Active | GoDaddy (transferring to Cloudflare) | Main Vestigia site |
-| vestigia-studios.com | Active | GoDaddy (transferring to Cloudflare) | 301 redirects to vestigia.org (page rule + proxied dummy A records) |
+| vestigia.org | Active | Cloudflare | Main Vestigia site |
+| vestigia-studios.com | Active | Cloudflare | 301 redirects to vestigia.org (page rule + proxied dummy A records) |
 
 ### Cloudflare Nameservers
 
@@ -44,6 +44,6 @@ All zones use:
 
 ## Pending Actions
 
-- [ ] **vestigia-studios.com**: Complete domain transfer from GoDaddy to Cloudflare
-- [ ] **vestigia.org**: Complete domain transfer from GoDaddy to Cloudflare
-- [x] **vestigia-studios.com**: ~~Set up DNS redirect to vestigia.org~~ Done (301 page rule)
+- [x] ~~**vestigia-studios.com**: Domain transfer from GoDaddy to Cloudflare~~ Done
+- [x] ~~**vestigia.org**: Domain transfer from GoDaddy to Cloudflare~~ Done
+- [x] ~~**vestigia-studios.com**: Set up DNS redirect to vestigia.org~~ Done (301 page rule)
