@@ -3,7 +3,7 @@
 ## GitHub
 
 **Organization**: [vestigia-lab](https://github.com/vestigia-lab)
-**Owner**: raphaeldoan
+**Owner**: [raphaeldoan](https://github.com/raphaeldoan)
 
 ### Repositories
 
